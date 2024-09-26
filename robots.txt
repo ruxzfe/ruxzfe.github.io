@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ruxzfe.github.io/sitemap/sitemap.txt
